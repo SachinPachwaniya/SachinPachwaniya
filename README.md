@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin pachwaniya</h1>
-<h3 align="center">A passionate frontend developer from India 🤝</h3>
+<h3 align="center">A passionate Full stack developer from India 🤝</h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/_ANGNgEoEbBF9Fj839bqYdWG6UPOQWMV5WiPbQR-h10/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzA0LzM3Lzk4/LzM2MF9GXzgwNDM3/OTg4N19WeWxqdExs/TGlPZlhmNWRLYnl4/elNRMWl4SjBodml2/Wi5qcGc">
 
